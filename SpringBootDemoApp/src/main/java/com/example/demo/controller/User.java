@@ -20,6 +20,7 @@ import lombok.Setter;
 @Entity
 //UserTable
 //test
+//usertest
 public class User 
 {
 	@Id
