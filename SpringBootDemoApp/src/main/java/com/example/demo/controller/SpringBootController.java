@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/SpringBootController")
-
+//controller
 public class SpringBootController {
 	@Autowired
 	SpringDemo springDemo;

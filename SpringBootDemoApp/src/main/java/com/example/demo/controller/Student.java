@@ -19,6 +19,7 @@ import lombok.Setter;
 @EnableAutoConfiguration
 @Table(name = "StudentInfo")
 @Entity
+//studentTable
 public class Student {
 
 	@Id
