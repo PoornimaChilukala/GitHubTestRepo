@@ -19,6 +19,7 @@ import lombok.Setter;
 @Table(name="User")
 @Entity
 //UserTable
+//test
 public class User 
 {
 	@Id
