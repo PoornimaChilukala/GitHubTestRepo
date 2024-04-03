@@ -18,7 +18,7 @@ import lombok.Setter;
 @EnableAutoConfiguration
 @Table(name="User")
 @Entity
-
+//UserTable
 public class User 
 {
 	@Id
